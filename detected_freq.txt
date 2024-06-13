@@ -1,0 +1,334 @@
+
+========Starting detection, date: 2024-06-10 03:41:51==============
+
+========Starting detection, date: 2024-06-10 03:44:14==============
+
+========Starting detection, date: 2024-06-10 03:47:28==============
+Detected frequency: 40.0 MHz, Power: 2.91 dBm, Date: 2024-06-10 03:47:43, img_num = 1
+Detected frequency: 41.0 MHz, Power: 2.77 dBm, Date: 2024-06-10 03:47:45, img_num = 2
+Detected frequency: 40.0 MHz, Power: 3.01 dBm, Date: 2024-06-10 03:47:49, img_num = 3
+
+========Starting detection, date: 2024-06-10 03:56:16==============
+Detected frequency: 40.0 MHz, Power: 2.91 dBm, Date: 2024-06-10 03:56:20, img_num = 1
+Detected frequency: 41.0 MHz, Power: 2.91 dBm, Date: 2024-06-10 03:56:22, img_num = 2
+
+========Starting detection, date: 2024-06-10 04:39:18==============
+Detected frequency: 40.0 MHz, Power: 3.01 dBm, Date: 2024-06-10 04:39:25, img_num = 1
+Detected frequency: 41.0 MHz, Power: 2.98 dBm, Date: 2024-06-10 04:39:27, img_num = 2
+Detected frequency: 40.0 MHz, Power: 2.98 dBm, Date: 2024-06-10 04:39:33, img_num = 3
+
+========Starting detection, date: 2024-06-10 04:44:46==============
+
+========Starting detection, date: 2024-06-10 04:44:57==============
+
+========Starting detection, date: 2024-06-10 04:49:30==============
+
+========Starting detection, date: 2024-06-10 13:15:57==============
+
+========Starting detection, date: 2024-06-10 13:16:11==============
+
+========Starting detection, date: 2024-06-10 13:16:25==============
+
+========Starting detection, date: 2024-06-10 13:16:42==============
+Detected frequency: 40.0 MHz, Power: 3.01 dBm, Date: 2024-06-10 13:17:03, img_num = 1
+Detected frequency: 41.0 MHz, Power: 3.01 dBm, Date: 2024-06-10 13:17:05, img_num = 2
+Detected frequency: 39.0 MHz, Power: 2.05 dBm, Date: 2024-06-10 13:17:11, img_num = 3
+
+========Starting detection, date: 2024-06-10 13:27:10==============
+
+========Starting detection, date: 2024-06-10 13:28:16==============
+
+========Starting detection, date: 2024-06-10 13:41:23==============
+
+========Starting detection, date: 2024-06-10 13:57:01==============
+
+========Starting detection, date: 2024-06-10 19:29:57==============
+Detected frequency: 40.0 MHz, Power: 2.94 dBm, Date: 2024-06-10 19:30:12, img_num = 1
+Detected frequency: 41.0 MHz, Power: 2.91 dBm, Date: 2024-06-10 19:30:15, img_num = 2
+Detected frequency: 40.0 MHz, Power: 3.01 dBm, Date: 2024-06-10 19:30:20, img_num = 3
+Detected frequency: 40.0 MHz, Power: 3.01 dBm, Date: 2024-06-10 19:30:30, img_num = 4
+
+========Starting detection, date: 2024-06-11 13:41:08==============
+Detected frequency: 433.0 MHz, Power: 2.41 dBm, Date: 2024-06-11 13:41:18, img_num = 1
+
+========Starting detection, date: 2024-06-11 14:04:04==============
+Detected frequency: 41.0 MHz, Power: 1.34 dBm, Date: 2024-06-11 14:04:33, img_num = 1
+Detected frequency: 42.0 MHz, Power: 1.05 dBm, Date: 2024-06-11 14:04:36, img_num = 2
+Detected frequency: 41.0 MHz, Power: 1.22 dBm, Date: 2024-06-11 14:04:38, img_num = 3
+Detected frequency: 40.0 MHz, Power: 2.09 dBm, Date: 2024-06-11 14:04:47, img_num = 4
+Detected frequency: 433.0 MHz, Power: 2.37 dBm, Date: 2024-06-11 14:04:56, img_num = 5
+Detected frequency: 433.0 MHz, Power: 2.42 dBm, Date: 2024-06-11 14:05:08, img_num = 6
+Detected frequency: 40.0 MHz, Power: 1.99 dBm, Date: 2024-06-11 14:05:11, img_num = 7
+Detected frequency: 434.0 MHz, Power: 2.20 dBm, Date: 2024-06-11 14:05:15, img_num = 8
+Detected frequency: 40.0 MHz, Power: 2.74 dBm, Date: 2024-06-11 14:05:24, img_num = 9
+
+========Starting detection, date: 2024-06-11 15:24:17==============
+Detected frequency: 42.0 MHz, Power: 2.87 dBm, Date: 2024-06-11 15:24:29, img_num = 1
+Detected frequency: 42.0 MHz, Power: 2.91 dBm, Date: 2024-06-11 15:24:34, img_num = 2
+Detected frequency: 41.0 MHz, Power: 2.81 dBm, Date: 2024-06-11 15:24:38, img_num = 3
+Detected frequency: 41.0 MHz, Power: 2.91 dBm, Date: 2024-06-11 15:24:43, img_num = 4
+Detected frequency: 41.0 MHz, Power: 2.87 dBm, Date: 2024-06-11 15:24:48, img_num = 5
+Detected frequency: 41.0 MHz, Power: 2.87 dBm, Date: 2024-06-11 15:24:53, img_num = 6
+Detected frequency: 41.0 MHz, Power: 2.20 dBm, Date: 2024-06-11 15:24:57, img_num = 7
+Detected frequency: 41.0 MHz, Power: 2.40 dBm, Date: 2024-06-11 15:25:03, img_num = 8
+Detected frequency: 42.0 MHz, Power: 2.94 dBm, Date: 2024-06-11 15:25:07, img_num = 9
+Detected frequency: 42.0 MHz, Power: 1.55 dBm, Date: 2024-06-11 15:25:11, img_num = 10
+Detected frequency: 41.0 MHz, Power: 2.17 dBm, Date: 2024-06-11 15:25:15, img_num = 11
+
+========Starting detection, date: 2024-06-11 15:28:14==============
+Detected frequency: 41.0 MHz, Power: 2.41 dBm, Date: 2024-06-11 15:28:33, img_num = 1
+Detected frequency: 42.0 MHz, Power: 2.67 dBm, Date: 2024-06-11 15:28:38, img_num = 2
+Detected frequency: 42.0 MHz, Power: 2.49 dBm, Date: 2024-06-11 15:28:44, img_num = 3
+
+========Starting detection, date: 2024-06-11 15:41:35==============
+Detected frequency: 200.0 MHz, Power: 2.00 dBm, Date: 2024-06-11 15:41:38, img_num = 1
+Detected frequency: 41.0 MHz, Power: 3.01 dBm, Date: 2024-06-11 15:41:45, img_num = 2
+Detected frequency: 41.0 MHz, Power: 2.87 dBm, Date: 2024-06-11 15:41:51, img_num = 3
+Detected frequency: 42.0 MHz, Power: 2.77 dBm, Date: 2024-06-11 15:41:56, img_num = 4
+Detected frequency: 41.0 MHz, Power: 2.37 dBm, Date: 2024-06-11 15:42:02, img_num = 5
+Detected frequency: 41.0 MHz, Power: 1.90 dBm, Date: 2024-06-11 15:42:07, img_num = 6
+Detected frequency: 41.0 MHz, Power: 2.87 dBm, Date: 2024-06-11 15:42:14, img_num = 7
+Detected frequency: 41.0 MHz, Power: 2.87 dBm, Date: 2024-06-11 15:42:20, img_num = 8
+
+========Starting detection, date: 2024-06-11 15:49:02==============
+Detected frequency: 40.0 MHz, Power: 2.98 dBm, Date: 2024-06-11 15:49:17, img_num = 1
+Detected frequency: 41.0 MHz, Power: 2.98 dBm, Date: 2024-06-11 15:49:19, img_num = 2
+Detected frequency: 40.0 MHz, Power: 2.98 dBm, Date: 2024-06-11 15:49:27, img_num = 3
+Detected frequency: 40.0 MHz, Power: 2.91 dBm, Date: 2024-06-11 15:49:34, img_num = 4
+Detected frequency: 40.0 MHz, Power: 2.91 dBm, Date: 2024-06-11 15:49:40, img_num = 5
+
+========Starting detection, date: 2024-06-12 01:10:57==============
+
+========Starting detection, date: 2024-06-12 01:13:09==============
+
+========Starting detection, date: 2024-06-12 01:14:34==============
+Detected frequency: 40.0 MHz, Power: 24.90 dBm, Date: 2024-06-12 01:14:37, img_num = 1
+Detected frequency: 40.0 MHz, Power: 23.43 dBm, Date: 2024-06-12 01:14:49, img_num = 2
+Detected frequency: 40.0 MHz, Power: 25.51 dBm, Date: 2024-06-12 01:14:57, img_num = 3
+Detected frequency: 40.0 MHz, Power: 24.82 dBm, Date: 2024-06-12 01:14:59, img_num = 4
+
+========Starting detection, date: 2024-06-12 01:20:44==============
+Detected frequency: 0.8299052271616999 MHz, Power: 26.25 dBm, Date: 2024-06-12 01:20:49, img_num = 1
+Detected frequency: -0.17158378114313633 MHz, Power: 26.33 dBm, Date: 2024-06-12 01:20:55, img_num = 2
+Detected frequency: 0.8279042501221299 MHz, Power: 25.49 dBm, Date: 2024-06-12 01:21:01, img_num = 3
+
+========Starting detection, date: 2024-06-12 01:23:23==============
+Detected frequency: 0.8289047386419149 MHz, Power: 25.50 dBm, Date: 2024-06-12 01:23:32, img_num = 1
+Detected frequency: -0.1725842696629213 MHz, Power: 26.84 dBm, Date: 2024-06-12 01:23:39, img_num = 2
+Detected frequency: -0.17158378114313633 MHz, Power: 23.54 dBm, Date: 2024-06-12 01:23:50, img_num = 3
+
+========Starting detection, date: 2024-06-12 01:25:56==============
+Detected Pmax frequency: 40000000.82890474 MHz, Power: 24.48 dBm, Date: 2024-06-12 01:26:03, img_num = 1
+Detected Pmax frequency: 40999999.83141769 MHz, Power: 24.79 dBm, Date: 2024-06-12 01:26:05, img_num = 2
+Detected Pmax frequency: 40999999.83041719 MHz, Power: 22.81 dBm, Date: 2024-06-12 01:26:13, img_num = 3
+Detected Pmax frequency: 40999999.825414754 MHz, Power: 25.55 dBm, Date: 2024-06-12 01:26:22, img_num = 4
+
+========Starting detection, date: 2024-06-12 01:27:58==============
+Detected Pmax frequency: 40.83 MHz, Power: 22.96 dBm, Date: 2024-06-12 01:28:04, img_num = 1
+Detected Pmax frequency: 40.83 MHz, Power: 21.80 dBm, Date: 2024-06-12 01:28:07, img_num = 2
+Detected Pmax frequency: 40.83 MHz, Power: 28.16 dBm, Date: 2024-06-12 01:28:22, img_num = 3
+
+========Starting detection, date: 2024-06-12 01:31:33==============
+Detected Pmax frequency: 40.82 MHz, Power: 31.22 dBm, Date: 2024-06-12 01:31:49, img_num = 1
+Detected Pmax frequency: 40.82 MHz, Power: 34.39 dBm, Date: 2024-06-12 01:31:51, img_num = 2
+Detected Pmax frequency: 40.82 MHz, Power: 31.74 dBm, Date: 2024-06-12 01:32:07, img_num = 3
+
+========Starting detection, date: 2024-06-12 01:34:40==============
+Detected Pmax frequency: 41.83 MHz, Power: 23.75 dBm, Date: 2024-06-12 01:34:49, img_num = 1
+Detected Pmax frequency: 41.83 MHz, Power: 25.84 dBm, Date: 2024-06-12 01:34:54, img_num = 2
+Detected Pmax frequency: 41.83 MHz, Power: 21.83 dBm, Date: 2024-06-12 01:34:59, img_num = 3
+Detected Pmax frequency: 41.82 MHz, Power: 25.56 dBm, Date: 2024-06-12 01:35:02, img_num = 4
+
+========Starting detection, date: 2024-06-12 01:40:39==============
+Detected Pmax frequency: 41.83 MHz, Power: 25.09 dBm, Date: 2024-06-12 01:40:42, img_num = 1
+Detected Pmax frequency: 41.82 MHz, Power: 22.98 dBm, Date: 2024-06-12 01:40:47, img_num = 2
+Detected Pmax frequency: 41.82 MHz, Power: 22.42 dBm, Date: 2024-06-12 01:40:50, img_num = 3
+Detected Pmax frequency: 41.83 MHz, Power: 24.79 dBm, Date: 2024-06-12 01:40:58, img_num = 4
+
+========Starting detection, date: 2024-06-12 01:44:15==============
+
+========Starting detection, date: 2024-06-12 01:44:21==============
+
+========Starting detection, date: 2024-06-12 01:47:14==============
+Detected Pmax frequency: 41.83 MHz, Power: 20.83 dBm, Date: 2024-06-12 01:47:19, img_num = 1
+
+========Starting detection, date: 2024-06-12 01:48:44==============
+Detected Pmax frequency: 40.83 MHz, Power: 30.90 dBm, Date: 2024-06-12 01:49:12, img_num = 1
+Detected Pmax frequency: 40.82 MHz, Power: 31.50 dBm, Date: 2024-06-12 01:49:15, img_num = 2
+
+========Starting detection, date: 2024-06-12 01:53:12==============
+Detected Pmax frequency: 40.82 MHz, Power: 31.70 dBm, Date: 2024-06-12 01:53:19, img_num = 1
+
+========Starting detection, date: 2024-06-12 01:53:30==============
+Detected Pmax frequency: 40.82 MHz, Power: 29.47 dBm, Date: 2024-06-12 01:53:37, img_num = 1
+
+========Starting detection, date: 2024-06-12 01:53:52==============
+
+========Starting detection, date: 2024-06-12 01:55:31==============
+Detected Pmax frequency: 41.83 MHz, Power: 24.48 dBm, Date: 2024-06-12 01:55:39, img_num = 1
+
+========Starting detection, date: 2024-06-12 01:56:42==============
+Detected Pmax frequency: 41.83 MHz, Power: 24.02 dBm, Date: 2024-06-12 01:56:45, img_num = 1
+
+========Starting detection, date: 2024-06-12 01:57:14==============
+Detected Pmax frequency: 41.83 MHz, Power: 27.16 dBm, Date: 2024-06-12 01:57:17, img_num = 1
+Detected Pmax frequency: 41.83 MHz, Power: 25.41 dBm, Date: 2024-06-12 01:57:24, img_num = 2
+Detected Pmax frequency: 41.82 MHz, Power: 26.99 dBm, Date: 2024-06-12 01:57:30, img_num = 3
+
+========Starting detection, date: 2024-06-12 01:59:08==============
+Detected Pmax frequency: 40.83 MHz, Power: 31.43 dBm, Date: 2024-06-12 01:59:15, img_num = 1
+Detected Pmax frequency: 40.83 MHz, Power: 29.14 dBm, Date: 2024-06-12 01:59:23, img_num = 2
+Detected Pmax frequency: 40.83 MHz, Power: 31.09 dBm, Date: 2024-06-12 01:59:25, img_num = 3
+
+========Starting detection, date: 2024-06-12 02:02:38==============
+Detected Pmax frequency: 40.83 MHz, Power: 31.17 dBm, Date: 2024-06-12 02:03:05, img_num = 1
+Detected Pmax frequency: 40.83 MHz, Power: 33.32 dBm, Date: 2024-06-12 02:03:08, img_num = 2
+
+========Starting detection, date: 2024-06-12 02:04:27==============
+Detected Pmax frequency: 40.83 MHz, Power: 33.38 dBm, Date: 2024-06-12 02:04:35, img_num = 1
+Detected Pmax frequency: 40.83 MHz, Power: 31.96 dBm, Date: 2024-06-12 02:04:58, img_num = 2
+Detected Pmax frequency: 40.83 MHz, Power: 34.83 dBm, Date: 2024-06-12 02:05:01, img_num = 3
+
+========Starting detection, date: 2024-06-12 02:09:54==============
+Detected Pmax frequency: 40.83 MHz, Power: 34.04 dBm, Date: 2024-06-12 02:10:16, img_num = 1
+Detected Pmax frequency: 40.83 MHz, Power: 35.40 dBm, Date: 2024-06-12 02:10:20, img_num = 2
+
+========Starting detection, date: 2024-06-12 02:12:05==============
+Detected Pmax frequency: 40.83 MHz, Power: 34.29 dBm, Date: 2024-06-12 02:12:11, img_num = 1
+Detected Pmax frequency: 40.83 MHz, Power: 30.61 dBm, Date: 2024-06-12 02:12:13, img_num = 2
+Detected Pmax frequency: 40.83 MHz, Power: 33.98 dBm, Date: 2024-06-12 02:12:17, img_num = 3
+Detected Pmax frequency: 40.83 MHz, Power: 29.47 dBm, Date: 2024-06-12 02:12:22, img_num = 4
+
+========Starting detection, date: 2024-06-12 02:13:30==============
+Detected Pmax frequency: 40.83 MHz, Power: 23.83 dBm, Date: 2024-06-12 02:13:33, img_num = 1
+Detected Pmax frequency: 40.83 MHz, Power: 23.87 dBm, Date: 2024-06-12 02:13:37, img_num = 2
+Detected Pmax frequency: 40.83 MHz, Power: 24.68 dBm, Date: 2024-06-12 02:13:43, img_num = 3
+Detected Pmax frequency: 40.83 MHz, Power: 25.99 dBm, Date: 2024-06-12 02:13:49, img_num = 4
+
+========Starting detection, date: 2024-06-12 02:15:06==============
+Detected Pmax frequency: 42.83 MHz, Power: 25.10 dBm, Date: 2024-06-12 02:15:11, img_num = 1
+Detected Pmax frequency: 37.83 MHz, Power: 26.55 dBm, Date: 2024-06-12 02:15:16, img_num = 2
+
+========Starting detection, date: 2024-06-12 02:16:20==============
+Detected Pmax frequency: 42.83 MHz, Power: 23.71 dBm, Date: 2024-06-12 02:16:25, img_num = 1
+Detected Pmax frequency: 99.83 MHz, Power: 24.82 dBm, Date: 2024-06-12 02:16:29, img_num = 2
+Detected Pmax frequency: 42.83 MHz, Power: 21.79 dBm, Date: 2024-06-12 02:16:34, img_num = 3
+
+========Starting detection, date: 2024-06-12 02:17:30==============
+Detected Pmax frequency: 40.83 MHz, Power: 26.42 dBm, Date: 2024-06-12 02:17:33, img_num = 1
+Detected Pmax frequency: 40.83 MHz, Power: 26.47 dBm, Date: 2024-06-12 02:17:45, img_num = 2
+
+========Starting detection, date: 2024-06-12 02:19:01==============
+Detected Pmax frequency: 40.83 MHz, Power: 22.73 dBm, Date: 2024-06-12 02:19:03, img_num = 1
+Detected Pmax frequency: 40.83 MHz, Power: 24.00 dBm, Date: 2024-06-12 02:19:15, img_num = 2
+
+========Starting detection, date: 2024-06-12 02:20:48==============
+Detected Pmax frequency: 40.83 MHz, Power: 23.27 dBm, Date: 2024-06-12 02:20:50, img_num = 1
+Detected Pmax frequency: 40.83 MHz, Power: 23.68 dBm, Date: 2024-06-12 02:20:56, img_num = 2
+Detected Pmax frequency: 40.83 MHz, Power: 24.26 dBm, Date: 2024-06-12 02:21:03, img_num = 3
+Detected Pmax frequency: 40.83 MHz, Power: 21.21 dBm, Date: 2024-06-12 02:21:08, img_num = 4
+Detected Pmax frequency: 40.83 MHz, Power: 24.02 dBm, Date: 2024-06-12 02:21:12, img_num = 5
+
+========Starting detection, date: 2024-06-12 02:32:05==============
+
+========Starting detection, date: 2024-06-12 02:42:56==============
+Detected Pmax frequency: 40.83 MHz, Power: 22.63 dBm, Date: 2024-06-12 02:42:59, img_num = 1
+Detected Pmax frequency: 41.83 MHz, Power: 21.09 dBm, Date: 2024-06-12 02:43:01, img_num = 2
+Detected Pmax frequency: 41.83 MHz, Power: 20.67 dBm, Date: 2024-06-12 02:43:03, img_num = 3
+Detected Pmax frequency: 40.83 MHz, Power: 24.36 dBm, Date: 2024-06-12 02:43:08, img_num = 4
+Detected Pmax frequency: 40.83 MHz, Power: 21.55 dBm, Date: 2024-06-12 02:43:14, img_num = 5
+Detected Pmax frequency: 40.83 MHz, Power: 23.83 dBm, Date: 2024-06-12 02:43:20, img_num = 6
+Detected Pmax frequency: 40.83 MHz, Power: 23.89 dBm, Date: 2024-06-12 02:43:25, img_num = 7
+
+========Starting detection, date: 2024-06-12 14:46:04==============
+
+========Starting detection, date: 2024-06-12 14:54:13==============
+
+========Starting detection, date: 2024-06-12 14:57:21==============
+Detected Pmax frequency: 40.83 MHz, Power: 20.18 dBm, Date: 2024-06-12 14:57:26, img_num = 1
+Detected Pmax frequency: 41.83 MHz, Power: 21.86 dBm, Date: 2024-06-12 14:57:28, img_num = 2
+Detected Pmax frequency: 40.84 MHz, Power: 23.61 dBm, Date: 2024-06-12 14:57:32, img_num = 3
+Detected Pmax frequency: 868.26 MHz, Power: 21.37 dBm, Date: 2024-06-12 14:57:43, img_num = 4
+Detected Pmax frequency: 868.30 MHz, Power: 21.07 dBm, Date: 2024-06-12 14:57:49, img_num = 5
+Detected Pmax frequency: 868.26 MHz, Power: 23.16 dBm, Date: 2024-06-12 14:58:00, img_num = 6
+
+========Starting detection, date: 2024-06-12 15:50:55==============
+Detected Pmax frequency: 433.88 MHz, Power: 21.43 dBm, Date: 2024-06-12 15:51:14, img_num = 1
+
+========Starting detection, date: 2024-06-12 16:55:50==============
+Detected Pmax frequency: 434.88 MHz, Power: 20.39 dBm, Date: 2024-06-12 16:56:06, img_num = 1
+Detected Pmax frequency: 433.88 MHz, Power: 22.18 dBm, Date: 2024-06-12 16:56:14, img_num = 2
+
+========Starting detection, date: 2024-06-12 17:09:10==============
+Detected Pmax frequency: 41.83 MHz, Power: 20.10 dBm, Date: 2024-06-12 17:09:14, img_num = 1
+Detected Pmax frequency: 433.89 MHz, Power: 23.57 dBm, Date: 2024-06-12 17:09:26, img_num = 2
+Detected Pmax frequency: 433.89 MHz, Power: 21.35 dBm, Date: 2024-06-12 17:09:31, img_num = 3
+Detected Pmax frequency: 433.89 MHz, Power: 22.76 dBm, Date: 2024-06-12 17:09:35, img_num = 4
+Detected Pmax frequency: 868.26 MHz, Power: 23.29 dBm, Date: 2024-06-12 17:09:40, img_num = 5
+
+========Starting detection, date: 2024-06-12 17:21:09==============
+Detected Pmax frequency: 433.89 MHz, Power: 20.35 dBm, Date: 2024-06-12 17:21:14, img_num = 1
+Detected Pmax frequency: 868.25 MHz, Power: 21.72 dBm, Date: 2024-06-12 17:21:18, img_num = 2
+Detected Pmax frequency: 868.29 MHz, Power: 25.54 dBm, Date: 2024-06-12 17:21:22, img_num = 3
+Detected Pmax frequency: 868.25 MHz, Power: 24.59 dBm, Date: 2024-06-12 17:21:28, img_num = 4
+Detected Pmax frequency: 868.25 MHz, Power: 21.92 dBm, Date: 2024-06-12 17:21:33, img_num = 5
+Detected Pmax frequency: 868.29 MHz, Power: 23.84 dBm, Date: 2024-06-12 17:21:39, img_num = 6
+
+========Starting detection, date: 2024-06-12 17:27:12==============
+Detected Pmax frequency: 433.91 MHz, Power: 21.59 dBm, Date: 2024-06-12 17:27:23, img_num = 1
+Detected Pmax frequency: 433.90 MHz, Power: 22.15 dBm, Date: 2024-06-12 17:27:29, img_num = 2
+Detected Pmax frequency: 868.25 MHz, Power: 20.72 dBm, Date: 2024-06-12 17:27:46, img_num = 3
+
+========Starting detection, date: 2024-06-12 17:33:55==============
+Detected Pmax frequency: 433.90 MHz, Power: 22.88 dBm, Date: 2024-06-12 17:34:14, img_num = 1
+Detected Pmax frequency: 868.30 MHz, Power: 25.08 dBm, Date: 2024-06-12 17:34:26, img_num = 2
+
+========Starting detection, date: 2024-06-12 17:42:33==============
+Detected Pmax frequency: 433.90 MHz, Power: 21.00 dBm, Date: 2024-06-12 17:42:50, img_num = 1
+Detected Pmax frequency: 868.26 MHz, Power: 26.75 dBm, Date: 2024-06-12 17:43:01, img_num = 2
+
+========Starting detection, date: 2024-06-12 17:50:01==============
+Detected Pmax frequency: 868.26 MHz, Power: 26.08 dBm, Date: 2024-06-12 17:50:03, img_num = 1
+Detected Pmax frequency: 868.26 MHz, Power: 22.07 dBm, Date: 2024-06-12 17:50:09, img_num = 2
+Detected Pmax frequency: 433.89 MHz, Power: 25.29 dBm, Date: 2024-06-12 17:50:14, img_num = 3
+Detected Pmax frequency: 869.26 MHz, Power: 23.15 dBm, Date: 2024-06-12 17:50:17, img_num = 4
+Detected Pmax frequency: 868.26 MHz, Power: 26.96 dBm, Date: 2024-06-12 17:50:26, img_num = 5
+Detected Pmax frequency: 868.26 MHz, Power: 25.05 dBm, Date: 2024-06-12 17:50:31, img_num = 6
+Detected Pmax frequency: 433.87 MHz, Power: 21.35 dBm, Date: 2024-06-12 17:50:44, img_num = 7
+
+========Starting detection, date: 2024-06-12 17:57:24==============
+
+========Starting detection, date: 2024-06-12 18:06:14==============
+Detected Pmax frequency: 433.90 MHz, Power: 23.98 dBm, Date: 2024-06-12 18:06:21, img_num = 1
+Detected Pmax frequency: 868.25 MHz, Power: 26.62 dBm, Date: 2024-06-12 18:06:34, img_num = 2
+
+========Starting detection, date: 2024-06-12 18:17:08==============
+Detected Pmax frequency: 433.91 MHz, Power: 22.94 dBm, Date: 2024-06-12 18:17:13, img_num = 1
+Detected Pmax frequency: 433.90 MHz, Power: 22.86 dBm, Date: 2024-06-12 18:17:20, img_num = 2
+Detected Pmax frequency: 868.30 MHz, Power: 23.57 dBm, Date: 2024-06-12 18:17:32, img_num = 3
+
+========Starting detection, date: 2024-06-12 18:22:38==============
+Detected Pmax frequency: 433.89 MHz, Power: 22.49 dBm, Date: 2024-06-12 18:22:44, img_num = 1
+Detected Pmax frequency: 868.26 MHz, Power: 20.15 dBm, Date: 2024-06-12 18:22:52, img_num = 2
+Detected Pmax frequency: 868.26 MHz, Power: 23.74 dBm, Date: 2024-06-12 18:22:56, img_num = 3
+Detected Pmax frequency: 433.90 MHz, Power: 21.35 dBm, Date: 2024-06-12 18:23:01, img_num = 4
+Detected Pmax frequency: 868.26 MHz, Power: 23.61 dBm, Date: 2024-06-12 18:23:06, img_num = 5
+Detected Pmax frequency: 434.90 MHz, Power: 20.21 dBm, Date: 2024-06-12 18:23:12, img_num = 6
+
+========Starting detection, date: 2024-06-12 18:31:37==============
+Detected Pmax frequency: 434.89 MHz, Power: 20.40 dBm, Date: 2024-06-12 18:31:47, img_num = 1
+Detected Pmax frequency: 868.26 MHz, Power: 23.40 dBm, Date: 2024-06-12 18:31:50, img_num = 2
+Detected Pmax frequency: 433.89 MHz, Power: 20.10 dBm, Date: 2024-06-12 18:31:53, img_num = 3
+Detected Pmax frequency: 433.88 MHz, Power: 23.33 dBm, Date: 2024-06-12 18:31:58, img_num = 4
+Detected Pmax frequency: 868.30 MHz, Power: 21.12 dBm, Date: 2024-06-12 18:32:02, img_num = 5
+
+========Starting detection, date: 2024-06-12 18:47:16==============
+Detected Pmax frequency: 868.30 MHz, Power: 23.87 dBm, Date: 2024-06-12 18:47:22, img_num = 1
+Detected Pmax frequency: 868.30 MHz, Power: 22.28 dBm, Date: 2024-06-12 18:47:30, img_num = 2
+Detected Pmax frequency: 868.29 MHz, Power: 20.67 dBm, Date: 2024-06-12 18:47:37, img_num = 3
+Detected Pmax frequency: 434.87 MHz, Power: 20.84 dBm, Date: 2024-06-12 18:47:40, img_num = 4
+Detected Pmax frequency: 868.29 MHz, Power: 20.77 dBm, Date: 2024-06-12 18:47:43, img_num = 5
+Detected Pmax frequency: 868.26 MHz, Power: 24.70 dBm, Date: 2024-06-12 18:47:47, img_num = 6
+Detected Pmax frequency: 433.90 MHz, Power: 25.37 dBm, Date: 2024-06-12 18:47:55, img_num = 7
+
+
